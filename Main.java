@@ -1,7 +1,7 @@
 class Main{
 public static void main(String[] args){
-System.out.prinln("This is java program");
-System.out.prinln("Output from java program");
-System.out.prinln(new Date());
+System.out.println("This is java program");
+System.out.println("Output from java program");
+System.out.println(new Date());
 }
 }
