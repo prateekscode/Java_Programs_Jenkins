@@ -13,5 +13,7 @@ al.add(51);
 
 al.stream().filter(x -> x % 2 == 0).forEach(x -> System.out.println(x));
 al.stream().map(x->x*2).forEach(n->System.out.println("-------"+n));
+
+System.out.println("Welcome again");
 }
 }
